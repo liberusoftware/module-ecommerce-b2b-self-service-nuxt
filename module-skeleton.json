@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-b2b-self-service-nuxt",
+  "capabilityKey": "planned:ecommerce:b2b-self-service",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-b2b-self-service-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/b2b-self-service.md",
+  "presentationPlan": "projects/ecommerce/nuxt/b2b-self-service.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
